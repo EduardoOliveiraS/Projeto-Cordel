@@ -1,3 +1,3 @@
 # Projeto-Cordel
-<a href="https://eduardooliveiras.github.com.io/Projeto-Cordel.index.html">Acesse nossa página</a>
+<a href="https://eduardooliveiras.github.io/Projeto-Cordel/index.html" target="_Black">Acesse nossa página</a>
  
